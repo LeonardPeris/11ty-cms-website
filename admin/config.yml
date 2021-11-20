@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: master
 
+publish_mode: editorial_worklfow
+
 media_folder: "_site/media/uploads"
 public_folder: "media/uploads"
 
